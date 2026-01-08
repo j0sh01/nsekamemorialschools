@@ -185,7 +185,7 @@ const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
         </div>
 
         <div className="container mx-auto px-4 mt-16 pt-8 border-t border-slate-800 text-center text-xs">
-          <p>© {new Date().getFullYear()} Nseka Memorial Schools. {t('nav.adm2026')}.</p>
+          <p>© {new Date().getFullYear()} Nseka Memorial Schools.</p>
         </div>
       </footer>
     </div>
