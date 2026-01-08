@@ -23,7 +23,8 @@ const Home: React.FC = () => {
       <section className="relative h-[85vh] flex items-center">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=1920&auto=format&fit=crop" 
+            // src="https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=1920&auto=format&fit=crop" 
+            src="/classroom.png"
             alt="Children in a bright classroom" 
             className="w-full h-full object-cover brightness-[0.4]"
           />
@@ -65,7 +66,7 @@ const Home: React.FC = () => {
             <div className="lg:w-1/2 relative">
               <div className="relative z-10 rounded-[3rem] overflow-hidden shadow-2xl border-8 border-white">
                 <img 
-                  src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=1200&auto=format&fit=crop" 
+                  src="/student-praying.png" 
                   alt="Holistic Growth" 
                   className="w-full h-full object-cover aspect-[4/5]"
                 />
@@ -160,7 +161,7 @@ const Home: React.FC = () => {
             {/* Nursery */}
             <div className="group relative overflow-hidden rounded-[3rem] shadow-2xl aspect-[4/5] md:aspect-auto md:h-[650px]">
               <img 
-                src="https://images.unsplash.com/photo-1620913009995-78e246830560?q=80&w=1200&auto=format&fit=crop" 
+                src="/nursery-image.png" 
                 className="absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" 
                 alt="Young Nursery Scholar"
               />
@@ -182,7 +183,7 @@ const Home: React.FC = () => {
             {/* Primary */}
             <div className="group relative overflow-hidden rounded-[3rem] shadow-2xl aspect-[4/5] md:aspect-auto md:h-[650px]">
               <img 
-                src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1200&auto=format&fit=crop" 
+                src="/primary-image.png" 
                 className="absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" 
                 alt="Primary Student Scholar"
               />

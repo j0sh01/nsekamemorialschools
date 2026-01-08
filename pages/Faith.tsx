@@ -42,12 +42,14 @@ const Faith: React.FC = () => {
             <div className="order-2 md:order-1">
               <div className="grid grid-cols-2 gap-4">
                 <img 
-                  src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=400&auto=format&fit=crop" 
+                  // src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=400&auto=format&fit=crop" 
+                  src="/holy.png"
                   className="rounded-2xl shadow-lg mt-8" 
                   alt="Inclusive group of children" 
                 />
                 <img 
-                  src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=400&auto=format&fit=crop" 
+                  // src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=400&auto=format&fit=crop" 
+                  src="/holistic.png"
                   className="rounded-2xl shadow-lg" 
                   alt="Instructional environment" 
                 />
