@@ -63,7 +63,7 @@ const SchoolLife: React.FC = () => {
                </ul>
             </div>
             <div className="relative">
-               <img src="https://images.unsplash.com/photo-1577891721396-22c5a3171d51?q=80&w=800&auto=format&fit=crop" className="rounded-[3rem] shadow-2xl relative z-10" alt="Students engaging in group activities" />
+               <img src="/group-activities.png" className="rounded-[3rem] shadow-2xl relative z-10" alt="Students engaging in group activities" />
                <div className="absolute -top-6 -left-6 w-full h-full border-4 border-blue-900 rounded-[3rem] -z-0"></div>
             </div>
          </div>
